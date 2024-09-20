@@ -1,6 +1,9 @@
 # Core Java Interview Preparation Guide
 
-![Core Java Interview Preparation Guide](./assets/images/java_banner.png)
+<p align="center">
+    <img src="./assets/images/java_banner.png" alt="Core Java Interview Preparation Guide" width="500" height="250">
+</p>
+
 
 Welcome to the **Core Java Interview Preparation Guide**! This repository is dedicated to helping you ace your Java interviews by covering the most essential and frequently asked questions. Whether you're a beginner or an experienced Java developer, this guide will provide you with concise and accurate answers, along with code snippets to reinforce your knowledge.
 
@@ -20,13 +23,13 @@ Each section is designed to give you a clear understanding of Java topics common
 
 ## Getting Started
 
-Simply browse the questions and answers below, or jump directly to specific topics to quickly revise key Java concepts. All the content is written in markdown for easy readability, and you can clone the repository to practice on your own system.
+Simply browse the questions and answers below, or jump directly to specific topics to quickly revise key Java concepts. All the content is written in markdown for easy readability, and you can clone the repository to practice on your system.
 
 ## Java Interview Q&A
 
 To get started with the detailed interview Q&A, check out the following sections:
 
-- [Chapter-1](./chapters/chapter-1.md)
+- [Chapter-1](./Chapters/chapter-1.md)
 
 ---
 
