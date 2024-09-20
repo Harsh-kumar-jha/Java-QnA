@@ -4,7 +4,6 @@
     <img src="./assets/images/java_banner.png" alt="Core Java Interview Preparation Guide" width="500" height="250">
 </p>
 
-
 Welcome to the **Core Java Interview Preparation Guide**! This repository is dedicated to helping you ace your Java interviews by covering the most essential and frequently asked questions. Whether you're a beginner or an experienced Java developer, this guide will provide you with concise and accurate answers, along with code snippets to reinforce your knowledge.
 
 ## What's Inside?
@@ -29,7 +28,7 @@ Simply browse the questions and answers below, or jump directly to specific topi
 
 To get started with the detailed interview Q&A, check out the following sections:
 
-- [Chapter-1](./Chapters/chapter-1.md)
+- [Chapter-1](./Chapters/Chapter-1.md)
 
 ---
 
