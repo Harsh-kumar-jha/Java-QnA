@@ -28,7 +28,8 @@ Simply browse the questions and answers below, or jump directly to specific topi
 
 To get started with the detailed interview Q&A, check out the following sections:
 
-- [Chapter-1](./Chapters/Chapter-1.md)
+- [Chapter-1 - Introduction and DataTypes](./Chapters/Chapter-1.md)
+- [Chapter-2 - Operators and Control Statements](./Chapters/Chapter-2.md)
 
 ---
 

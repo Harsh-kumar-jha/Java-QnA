@@ -1,4 +1,4 @@
-# Java Full Stack Development Interview Questions
+# Chapter 1 - Introduction and DataTypes
 
 ## Q. What is full stack development?
 
@@ -71,11 +71,15 @@ Java is a high-level, object-oriented programming language designed to have as f
 
 ## Q. Write the JVM architecture and explain JVM components.
 
-- **Class Loader**: Loads class files.
-- **Memory Areas**: Manages memory allocation (Heap, Stack, Method Area).
-- **Execution Engine**: Executes bytecode instructions.
-- **Native Method Interface**: Allows communication with other native applications.
-- **Garbage Collector**: Manages memory by freeing unused objects.
+- **Class Loader**: It will load `.class` file into JVM.
+- **Memory Areas**: Class code will be stored here.
+- **Heap area**: Objects will be stored into head area.
+- **Java Stack**: Method execution information will be stored here.
+- **PC Register**: It will maintain next line information to execute.
+- **Native Stack**: It will maintain non-java code execution information.
+- **Native Interface**: It will load native libraries into JVM.
+- **Native Libraries**: Non-java libraries which are required for native code execution.
+- **Execution Engine**: It is responsible to execute the program and provide output/result. It will use Interpreter and JIT for execution.
 
 ## Q. What is JIT (Just-In-Time Compiler)?
 
