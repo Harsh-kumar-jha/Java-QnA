@@ -1,12 +1,8 @@
 # Chapter 2 : Operators and Control Statements
 
----
-
 ## Q. What is an Operator and why do we need operators?
 
 An **operator** in Java is a special symbol or keyword used to perform operations on variables and values. Operators are essential because they allow us to perform arithmetic, comparison, and logical operations to manipulate data and control the flow of the program.
-
----
 
 ## Q. List down all the operators available in Java?
 
@@ -24,8 +20,6 @@ Java operators are categorized into several types:
 10. **New Operator**: `new`
 11. **Dot Operator**: `.`
 
----
-
 ## Q. What is the difference between Relational and Logical Operators?
 
 - **Relational Operators**: Used to compare two values. They return `true` or `false` based on the comparison.
@@ -33,8 +27,6 @@ Java operators are categorized into several types:
 
 - **Logical Operators**: Used to combine multiple conditions or expressions. They return a boolean value (`true` or `false`).
   Example: `&&` (Logical AND), `||` (Logical OR), `!` (Logical NOT)
-
----
 
 ## Q. What is the purpose of the 'new' operator?
 
